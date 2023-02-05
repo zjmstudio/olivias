@@ -1,0 +1,137 @@
+body {
+  background-color: #32CD32;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.box {
+  height: 100vh;
+  width: 100%;
+}
+
+.single-box .div-left{
+  width: 49%;
+  height: auto;
+  float: left;
+}
+
+.single-box .div-right{
+  width: 49%;
+  height: auto;
+  float: right;
+}
+
+p {
+
+  padding: 15px 20% 15%;
+  font-size: 20px;
+  color: #fff;
+}
+
+
+img {
+
+  padding: 20% 5% 0 5%;
+}
+
+
+.color1 {
+  background:#32CD32;
+}
+
+.color2 {
+  background:#5ed1fe;
+}
+
+.color3 {
+  background:#9e508c;
+}
+
+.color4 {
+  background:maroon;
+}
+
+.color5 {
+  background:#fb6b19;;
+}
+
+/*logo*/
+
+.navbar {
+  color: #fff;
+  padding-left: 100px;
+  margin: 40px;
+  padding-top: 35px;
+  cursor: pointer;
+  background: #
+}
+
+ul {
+  padding-left: 40px;
+  margin-top: 40px;
+  padding: 15px;
+  margin: 0;
+  border: 5px solid;
+  display: inline-block;
+  position: absolute;
+  transform: translateY(-50%)
+  translateX(-50%);
+}
+
+ul li {
+
+  list-style: none;
+  float: left;
+  font-size: 3em;
+  font-family: 'Arapey', serif;
+  transition: .9s;
+
+}
+
+ul:hover li {
+
+  transform: rotateY(360deg);
+}
+
+
+ul:hover li:nth-child(1) {
+
+  transition-delay: .2s;
+
+}
+ul:hover li:nth-child(2) {
+
+  transition-delay: .2s;
+
+}
+ul:hover li:nth-child(3) {
+
+  transition-delay: .2s;
+
+}
+ul:hover li:nth-child(4) {
+
+  transition-delay: .2s;
+
+}
+ul:hover li:nth-child(5) {
+
+  transition-delay: .2s;
+
+}
+ul:hover li:nth-child(6) {
+
+  transition-delay: .2s;
+
+}
+ul:hover li:nth-child(7) {
+
+  transition-delay: .2s;
+
+}
+ul:hover li:nth-child(8) {
+
+  transition-delay: .2s;
+
+}
